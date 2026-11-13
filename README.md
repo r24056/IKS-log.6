@@ -5,4 +5,4 @@
 
 ▶[資料のPDFを開く](./第6回-14知識科学概論プレゼン資料-NN.pdf)
 
-▶[資料の動画を視聴する](https://youtu.be/gLchINV-WnA)
+▶[資料の動画を視聴する(YouTube)](https://youtu.be/gLchINV-WnA)
